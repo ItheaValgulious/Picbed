@@ -1,5 +1,11 @@
 {
   "path": "/",
   "type": "folder",
-  "children": []
+  "children": [
+    {
+      "path": "",
+      "type": "folder",
+      "children": []
+    }
+  ]
 }
